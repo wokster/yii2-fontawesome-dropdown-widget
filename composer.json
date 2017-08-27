@@ -1,0 +1,22 @@
+{
+"name": "wokster/yii2-fontawesome-dropdown-widget",
+"description": "widget for choose fontawesome icon",
+"type": "yii2-extension",
+"keywords": ["yii2","extension","fontawesome","dropdown","icon"],
+"license": "BSD-3-Clause",
+"authors": [
+{
+"name": "Maksym Tymofeiev",
+"email": "wokster@list.ru"
+}
+],
+"require": {
+  "yiisoft/yii2": ">=2.0.6",
+  "rmrevin/yii2-fontawesome": "~2.17"
+},
+"autoload": {
+"psr-4": {
+"wokster\\fontawesomedropdown\\": ""
+}
+}
+}
